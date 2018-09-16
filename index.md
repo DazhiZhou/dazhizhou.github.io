@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+# Dazhi Zhou(Dodger Chou)
+### Department of Physics
+### Wuhan University, Wuhan, China
 
-You can use the [editor on GitHub](https://github.com/DazhiZhou/dazhizhou.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm an undergraduate at Physics Department of Wuhan University. Now, I'm working in our School's Astrophysics Center. Although so far, I haven't decided which path to choose in the future yet, I have wide interests on astronomy research especially about stellar astrophysics, cosmology and high-energy astrophysics. 
+
+
 
 ### Markdown
 
