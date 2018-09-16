@@ -4,11 +4,8 @@ Department of Physics
 Wuhan University, Wuhan, China
 
 ## About Me
-![My photo](https://imgur.com/a/bdN8ePO)
-<figure class="half">
-    <a href="https://imgur.com/a/bdN8ePO"><img src="https://imgur.com/a/bdN8ePO"></a>
-    <a href="https://imgur.com/a/owrELpW"><img src="https://imgur.com/a/owrELpW"></a>
-</figure>
+![My photo](https://github.com/DazhiZhou/dazhizhou.github.io/blob/master/83242E056778CEDE922E015EADCE00E6.jpg)
+
 I'm an undergraduate at Physics Department of Wuhan University. Now, I'm working in our School's Astrophysics Center. Although so far, I haven't decided which path to choose in the future yet, I have wide interests on astronomy research especially about stellar astrophysics, high-energy astrophysics and cosmology. I am currently doing a project about the water maser and sometime I'm also analysing the data from HXMT(The Hard X-ray Modulation Telescope) in order to do another project about the spin of the black hole.
 
 <!doctype html>
