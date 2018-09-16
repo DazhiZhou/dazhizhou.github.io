@@ -4,6 +4,7 @@
 
 I'm an undergraduate at Physics Department of Wuhan University. Now, I'm working in our School's Astrophysics Center. Although so far, I haven't decided which path to choose in the future yet, I have wide interests on astronomy research especially about stellar astrophysics, cosmology and high-energy astrophysics. I am currently doing a project about the water maser and sometime I'm also analysing the data from HXMT(The Hard X-ray Modulation Telescope).
 
+![My picture](https://github.com/DazhiZhou/dazhizhou.github.io/blob/picture/83242E056778CEDE922E015EADCE00E6.jpg)
 
 ### Markdown
 
