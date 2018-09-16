@@ -2,8 +2,7 @@
 ### Department of Physics
 ### Wuhan University, Wuhan, China
 
-I'm an undergraduate at Physics Department of Wuhan University. Now, I'm working in our School's Astrophysics Center. Although so far, I haven't decided which path to choose in the future yet, I have wide interests on astronomy research especially about stellar astrophysics, cosmology and high-energy astrophysics. 
-
+I'm an undergraduate at Physics Department of Wuhan University. Now, I'm working in our School's Astrophysics Center. Although so far, I haven't decided which path to choose in the future yet, I have wide interests on astronomy research especially about stellar astrophysics, cosmology and high-energy astrophysics. I am currently doing a project about the water maser and sometime I'm also analysing the data from HXMT(The Hard X-ray Modulation Telescope).
 
 
 ### Markdown
@@ -25,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![https://imgur.com/a/6wrAob6](https://imgur.com/a/6wrAob6)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
