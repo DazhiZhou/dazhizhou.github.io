@@ -1,7 +1,6 @@
-# Dazhi Zhou(Dodger Chou)
+# Dazhi Zhou (Dodger Chou)
 ### Department of Physics
 ### Wuhan University, Wuhan, China
-
 
 I'm an undergraduate at Physics Department of Wuhan University. Now, I'm working in our School's Astrophysics Center. Although so far, I haven't decided which path to choose in the future yet, I have wide interests on astronomy research especially about stellar astrophysics, cosmology and high-energy astrophysics. 
 
