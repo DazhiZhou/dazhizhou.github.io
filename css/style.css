@@ -114,7 +114,7 @@ address span{
 	padding:1.5em 0 0em 2em;
 }
 .intro_details h4,.education_details h4{
-	color:#333333;
+	color:#737373;
 	font-weight:600;
 	font-size:1.5em;
 	margin-bottom:6px;
@@ -123,7 +123,7 @@ address span{
 .intro_details h4 span,.education_details h4 span{
 	font-size: 0.65em;
   margin-left: 5px;
-  color: #333333;
+  color: #737373;
   font-weight:400;
 }
 .intro_details h6,.education_details h6{
@@ -132,7 +132,7 @@ address span{
 	font-size:0.9em;
 }
 .intro_details p,.skill_info p,.education_details p{
-	color:#333333;
+	color:#737373;
 	font-weight:300;
 	line-height:1.7em;
 }
