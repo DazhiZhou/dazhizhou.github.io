@@ -1,9 +1,3 @@
-/*
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
-*/
 h4, h5, h6,
 h1, h2, h3 {margin: 0;}
 ul, ol {margin: 0; padding:0;}
@@ -103,10 +97,10 @@ address span{
 .details_header ul li a:hover{
 	color:#6ecadc;
 }
-.company {
+.intro {
 	margin:2em 0;
 }
-.company h3{
+.intro h3{
   color: #FFF;
   padding: 5px 41px 5px 30px;
   display: inline-block;
@@ -116,33 +110,33 @@ address span{
   padding: 5px 98px 5px 30px;
   display: inline-block;
 }
-.company_details,.education_details {
+.intro_details,.education_details {
 	padding:1.5em 0 0em 2em;
 }
-.company_details h4,.education_details h4{
-	color:#333;
+.intro_details h4,.education_details h4{
+	color:#333333;
 	font-weight:600;
 	font-size:1.5em;
 	margin-bottom:6px;
 	font-family: 'Varela Round', sans-serif;
 }
-.company_details h4 span,.education_details h4 span{
+.intro_details h4 span,.education_details h4 span{
 	font-size: 0.65em;
   margin-left: 5px;
   color: #999;
   font-weight:400;
 }
-.company_details h6,.education_details h6{
+.intro_details h6,.education_details h6{
 	font-weight:400;
 	margin-bottom:1.3em;
 	font-size:0.9em;
 }
-.company_details p,.skill_info p,.education_details p{
+.intro_details p,.skill_info p,.education_details p{
 	color:#999;
 	font-weight:300;
 	line-height:1.7em;
 }
-.cmpny1{
+.intro1{
 	border-bottom:3px dashed #999;
 	padding-bottom:1em;
 }
@@ -280,19 +274,19 @@ h3.clr3{
   padding: 0 1em;
   font-size: 0.9em;
 }
-.company h3,.skills h3,.education h3{
+.intro h3,.skills h3,.education h3{
   font-size: 1.2em;
 }
-.company_details h4, .education_details h4 {
+.intro_details h4, .education_details h4 {
   font-size: 1.1em;
 }
-.company_details h6, .education_details h6 {
+.intro_details h6, .education_details h6 {
   font-size: 0.8em;
 }
-.company_details p, .skill_info p, .education_details p {
+.intro_details p, .skill_info p, .education_details p {
   font-size: 0.8em;
 }
-.cmpny1 {
+.intro1 {
   padding-bottom: 1.5em;
 }
 .skill1, .skill2 {
@@ -455,25 +449,25 @@ address {
 .main {
   padding: 1em 0 2em 0;
 }
-.company_details, .education_details,.skill_info  {
+.intro_details, .education_details,.skill_info  {
   padding: 1em 0 0em 1em;
 }
-.company h3 {
+.intro h3 {
   padding: 5px 41px 5px 16px;
 }
-.company_details h4, .education_details h4 {
+.intro_details h4, .education_details h4 {
   font-size: 0.9em;
 }
-.company_details h6, .education_details h6 {
+.intro_details h6, .education_details h6 {
   font-size: 0.6em;
 }
-.company {
+.intro {
   margin: 1em 0;
 }
 .skills {
   margin: 1em 0;
 }
-.company h3, .skills h3, .education h3 {
+.intro h3, .skills h3, .education h3 {
   font-size: 1em;
 }
 .skills h3 {
