@@ -52,12 +52,12 @@ a:focus {
 }  
 
 .details p{
-	color:#101010;
+	color:#8f8b8b;
 	font-size:0.9em;
 	margin:5px 0 2em 0;
 }
 .details p a{
-	color:#101010;
+	color:#8f8b8b;
 	font-size:0.9em;
 }
 address h3{
@@ -65,7 +65,7 @@ address h3{
 }
 address span{
 	display:block;
-	color:#101010;
+	color:#8f8b8b;
 	font-size:0.9em;
 	line-height:1.5em;
 }
